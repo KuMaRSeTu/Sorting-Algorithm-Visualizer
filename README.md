@@ -7,12 +7,9 @@ Result
 Description
 -----------
 Shows how different sorting algorithms works visually 
--
--
--
--
--
-Language used - Python
+
+- Language used - Python
+
 Files 
 -----
 Merge Sort.py
