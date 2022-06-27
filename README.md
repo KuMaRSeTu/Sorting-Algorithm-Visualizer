@@ -7,6 +7,11 @@ Result
 Description
 -----------
 Shows how different sorting algorithms works visually 
+-
+-
+-
+-
+-
 Language used - Python
 Files 
 -----
